@@ -1,6 +1,6 @@
 /*
     Joshua Drummond
-    Poopie Wars! v1.0
+    Poopie Wars! v1.1
     (yet another Asteroids clone)
 */
 
@@ -278,7 +278,7 @@ class AboutFrame
         ta.setEditable(false);
         ta.setBackground(Color.black);
         ta.setForeground(Color.green);
-        String s = "Poopie Wars! v1.0\n" +
+        String s = "Poopie Wars! v1.1\n" +
                    "Copyright 1998 by Josh Drummond\n\n" +
                    "     Thank you for playing this simple Java game of mine.\n"+
                    "The basic gameplay idea comes from the classic arcade\n" +
