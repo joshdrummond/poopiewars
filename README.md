@@ -8,3 +8,7 @@ An embarrassingly stupid game I wrote back in 1998 for fun when I first learned 
 (c) 1998 Josh Drummond
 
 "If you don't know where you came from how can you know where you are going?"
+
+Code license: GNU GPL v2
+
+Labels: java, applet, game
